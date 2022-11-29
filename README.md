@@ -4,7 +4,7 @@ Data Science Portfolio
 ## [Project 1: TaylorFit (Collaborative Project)](www.taylorfit-rsa.com)
 ![](/images/TaylorFit.png)
 
-This is a web application that serves as a data analytics tool utilizing multivariable polynomial regression models and allows users to create a predictive model from a numerical dataset.
+This is a data analytics tool that serves as a data analytics tool utilizing multivariable polynomial regression models and allows users to create a predictive model from a numerical dataset.
 
 #### Use Cases / Examples
 * Plant Growth - Predicting Crop Yield
