@@ -1,4 +1,4 @@
-# ds_portfolio
+# kexian_portfolio
 Data Science Portfolio
 
 ## [Project 1: TaylorFit (Collaborative Project)](www.taylorfit-rsa.com)
